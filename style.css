@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+body{
+
+    color: rgb(0, 0, 0);
+    background: rgb(192, 246, 255);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name-of-objects {
+
+    color:rgb(0, 0, 0);
+}
+
+#camera {
+   border:  2px dashed black; 
+   width:250px;
+   height:300px;
+   align-items: center;
+   margin: 5px auto;
+}
+
+.name-of-objects,#result-object-name {
+    color: yellow;
+}
+
+.name-of-objects,#result-object-accuracy{
+    color: yellow;
+}
